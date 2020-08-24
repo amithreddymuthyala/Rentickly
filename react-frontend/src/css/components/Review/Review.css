@@ -1,0 +1,30 @@
+/* author: Sharan Sudhir */
+section {
+  height: 100vh;
+}
+.reviews {
+  margin-top: 10px;
+  /* border: solid 2px black; */
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* width: 80%; */
+}
+form {
+  width: 80%;
+}
+#exampleFormControlSelect2 {
+  /* border: solid 2px black; */
+  height: 110px;
+}
+h1 {
+  text-align: center;
+}
+#exampleFormControlTextarea1 {
+  height: 200px;
+}
+#btn {
+  /* border: 2px solid black; */
+  text-align: center;
+}

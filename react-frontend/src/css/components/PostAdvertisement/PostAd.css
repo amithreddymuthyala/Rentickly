@@ -1,0 +1,57 @@
+/* Author: Romal Sehgal */
+.container__heading{
+    margin-top: 10%;
+    margin-bottom: 2%;
+    text-align: center;
+    color: #343A40
+}
+.post__Ad-form {
+    margin: 2% 15% 2%;
+}
+
+.postAd-form__container {
+    margin-top: 5%;
+    justify-content: center;
+}
+
+.miscellaneus__forms {
+    border-style: solid;
+}
+
+#postAdd__forms {
+    border-width: 1px;
+    border-style: solid;
+}
+
+.postAd__Button {
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	background-color:#ededed;
+	border-radius:30px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#3a8a9e;
+	font-family:Arial;
+	font-size:20px;
+    padding:14px 51px;
+    margin-top: 0.5%;
+    text-decoration:none;
+    margin-left: 42%;
+    margin-bottom: 5%;
+	text-shadow:0px 0px 0px #e1e2ed;
+}
+.postAd__Button:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+    background-color:#bab1ba;
+    text-decoration: none;
+}
+.postAd__Button:active {
+	position:relative;
+    top:1px;
+    text-decoration: none;
+}
+
+
+.k-label {
+    font-weight: bolder;
+}

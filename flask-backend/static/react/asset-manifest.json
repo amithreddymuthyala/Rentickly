@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.834fee15.chunk.css",
+    "main.js": "/static/react/js/main.a1ae0894.chunk.js",
+    "main.js.map": "/static/react/js/main.a1ae0894.chunk.js.map",
+    "runtime-main.js": "/static/react/js/runtime-main.8fa3ef7f.js",
+    "runtime-main.js.map": "/static/react/js/runtime-main.8fa3ef7f.js.map",
+    "css/2.06c88a3e.chunk.css": "/static/react/css/2.06c88a3e.chunk.css",
+    "js/2.818fe7d9.chunk.js": "/static/react/js/2.818fe7d9.chunk.js",
+    "js/2.818fe7d9.chunk.js.map": "/static/react/js/2.818fe7d9.chunk.js.map",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "css/2.06c88a3e.chunk.css.map": "/static/react/css/2.06c88a3e.chunk.css.map",
+    "css/main.834fee15.chunk.css.map": "/static/react/css/main.834fee15.chunk.css.map",
+    "js/2.818fe7d9.chunk.js.LICENSE.txt": "/static/react/js/2.818fe7d9.chunk.js.LICENSE.txt",
+    "media/about.jpg": "/static/react/media/about.0bfc53e4.jpg",
+    "media/mdb.css": "/static/react/media/arrow_right.8ef6a08c.svg",
+    "media/contact.jpg": "/static/react/media/contact.35f25191.jpg",
+    "media/all.min.css": "/static/react/media/fa-solid-900.f3a7d3b5.woff",
+    "media/faq.jpg": "/static/react/media/faq.c17b4bd7.jpg",
+    "media/house-logo.jpg": "/static/react/media/house-logo.511e38fb.jpg",
+    "media/house.jpg": "/static/react/media/house.dc5542bd.jpg",
+    "media/image-12.png": "/static/react/media/image-12.72c2a95a.png",
+    "media/image-13.png": "/static/react/media/image-13.fd56ef2d.png",
+    "media/image-14.png": "/static/react/media/image-14.3d29590e.png",
+    "media/img.jpg": "/static/react/media/img.520ab47f.jpg",
+    "media/img2.jpg": "/static/react/media/img2.1301e57a.jpg",
+    "media/to-do-list.jpg": "/static/react/media/to-do-list.33c77af3.jpg",
+    "precache-manifest.80382ae33795ffbe468ac54906585e4f.js": "/static/react/precache-manifest.80382ae33795ffbe468ac54906585e4f.js",
+    "service-worker.js": "/static/react/service-worker.js"
+  },
+  "entrypoints": [
+    "js/runtime-main.8fa3ef7f.js",
+    "css/2.06c88a3e.chunk.css",
+    "js/2.818fe7d9.chunk.js",
+    "css/main.834fee15.chunk.css",
+    "js/main.a1ae0894.chunk.js"
+  ]
+}

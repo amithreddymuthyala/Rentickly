@@ -1,0 +1,22 @@
+.container label {
+  font-style: normal;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-style: normal;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+
+p {
+  font-style: normal;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  color: red;
+}
+
+input {
+  align-items: center;
+}

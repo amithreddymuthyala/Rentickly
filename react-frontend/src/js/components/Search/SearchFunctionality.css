@@ -1,0 +1,10 @@
+.search-container {
+  /* height: 30%; */
+  /* border: solid 2px black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-control {
+  width: 50%;
+}

@@ -1,0 +1,62 @@
+.MuiPaper-root .MuiDrawer-paper .MuiDrawer-paperAnchorLeft .MuiPaper-elevation16 {
+    background: black;
+} 
+
+.MuiDivider-root {
+    background-color: white;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.nav__header {
+    display: inline-flex;
+    justify-content: space-evenly;
+    padding: 0.5em;
+}
+
+.MuiSvgIcon-root {
+    color: white;
+}
+
+.logo__heading {
+    margin-top: 8px;
+    margin-left: 0.2%;
+}
+
+.nav__header .nav__bar-title {
+    margin-top: 10px;
+    color: white;
+}
+
+.nav__main-items {
+    list-style: none;
+    font-size: 1.3rem;
+    padding: 1;
+    font-weight: 500;
+    border-bottom: 1px white;
+}
+
+.nav__main-item {
+    margin-bottom: 2rem;
+}
+
+.nav__main-item > Link {
+    color: #cdecf3; 
+}
+
+.nav__bar-link {
+    text-decoration: none;
+    color: white;
+    size: 2rem;
+    margin-right: 10px;
+}
+
+.nav__bar-link:hover {
+    text-decoration: none;
+    color: #cdecf3
+}
+
+.nav__main-item > Link:hover {
+    color: #ebf0f1;
+    text-decoration: none;
+}
